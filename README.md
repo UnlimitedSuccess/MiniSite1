@@ -25,3 +25,5 @@ TASKS:
 
 markdown notes:
 https://help.github.com/articles/github-flavored-markdown
+
+yah, so markdown just edits the look of the text. okkkay
