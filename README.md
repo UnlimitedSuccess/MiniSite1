@@ -13,3 +13,6 @@ OBJECTIVES:
 
 
 :: I think we actually wanna use the wiki for notes like this. just use this readme as a description of the repo. We should work out a markup system to keep things neat.
+
+markdown notes:
+https://help.github.com/articles/github-flavored-markdown
